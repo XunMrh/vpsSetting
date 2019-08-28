@@ -26,6 +26,3 @@ ssserver -c /etc/shadowsocks.json -d stop
 #step 4: 在客户机，也就是你自己的电脑主机上安装shadowsocks软件，ip,port,密码，以及加密方式与上保持相同
 #至此，vps配置完成，你已经有了自己的私有VPN，另外手机科学上网也可以使用shadowsocks的APP，配置同step4
 
-
-
-
